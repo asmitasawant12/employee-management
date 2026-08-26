@@ -1,0 +1,44 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "Rahul Sharma",
+      "email": "rahul@gmail.com",
+      "mobile": "9876543210",
+      "country": "India",
+      "state": "Maharashtra",
+      "district": "Pune"
+    },
+    {
+      "id": "2",
+      "name": "Priya Patil",
+      "email": "priya@gmail.com",
+      "mobile": "9876543211",
+      "country": "India",
+      "state": "Maharashtra",
+      "district": "Mumbai"
+    }
+  ],
+  "countries": [
+    {
+      "id": "1",
+      "name": "India"
+    },
+    {
+      "id": "2",
+      "name": "United States"
+    },
+    {
+      "id": "3",
+      "name": "United Kingdom"
+    },
+    {
+      "id": "4",
+      "name": "Canada"
+    },
+    {
+      "id": "5",
+      "name": "Australia"
+    }
+  ]
+}
